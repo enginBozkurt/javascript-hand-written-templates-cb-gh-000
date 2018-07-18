@@ -55,7 +55,6 @@ Okay, we did it. Let's add another paragraph for the commenter's name, since we 
 
 Great! Now we have another comment, so let's go ahead and get back in that HTML and add it.
 
-![Frustrated_Jordan](https://user-images.githubusercontent.com/17556281/28326809-c759f4fe-6baf-11e7-9602-02ec4b9cb897.gif)
 
 Yeah, just kidding. I'm not going to make you do that. Editing comments directly in the HTML is obviously unsustainable, for a lot of reasons, not the least of which is that were *definitely* not giving every visitor to our blog the ability to directly edit our HTML, but also, we have better things to do with our lives. We have at least a dozen episodes of the Bachelorette to catch up on, we don't have time for this.
 
@@ -205,7 +204,7 @@ We added a line to the top of this function `event.preventDefault()`. We'll expl
 
 Let's reload `index.html` and try out our new comment form. If we did everything right, we should now be able to dynamically add comments to this blog post, and we all know the internet needed one more place where people can add comments.
 
-![someone wrong](http://imgs.xkcd.com/comics/duty_calls.png)
+
 
 ## Summary
 
